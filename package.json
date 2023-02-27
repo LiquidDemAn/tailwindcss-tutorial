@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build -i src/main.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiquidDemAn/tailwindcss-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiquidDemAn/tailwindcss-tutorial/issues"
+  },
+  "homepage": "https://github.com/LiquidDemAn/tailwindcss-tutorial#readme",
+  "devDependencies": {
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
